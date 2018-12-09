@@ -43,8 +43,8 @@ MQTTClient client;
 ControlP5 cp5;
 
 String default_mqtt_server = "io.adafruit.com";
-String default_mqtt_username = "akw";
-String default_mqtt_password = "4746bf5b83de4d5db4e4c03ad8b304cd";
+String default_mqtt_username = "JabezNikhil";
+String default_mqtt_password = "reset12345";
 int mqtt_post_interval=5000; //millisecond
 
 Textlabel lblHR;
